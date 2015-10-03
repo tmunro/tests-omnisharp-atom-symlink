@@ -1,0 +1,6 @@
+*.pidb
+/Temp
+/Library
+*.userprefs
+tags
+launch.json
